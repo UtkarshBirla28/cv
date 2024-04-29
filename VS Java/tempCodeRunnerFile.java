@@ -1,0 +1,1 @@
+ int length=peakArray.length-1;
